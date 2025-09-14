@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/photos/"}
+{"dg-publish":true,"permalink":"/photos/","dgShowLocalGraph":true,"noteIcon":"","created":"2025-08-31T18:58:17.824-04:00","updated":"2025-09-14T18:31:38.834-04:00"}
 ---
-
 
 
 
