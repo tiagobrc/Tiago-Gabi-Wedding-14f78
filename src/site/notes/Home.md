@@ -5,3 +5,5 @@
 This is my home
 and this is our story: [[Timeline\|Timeline]].
 
+Our photos [[Photos\|Photos]].
+
